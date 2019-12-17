@@ -1,0 +1,3 @@
+1. Miroslav Khoma - musi urobit scripty, vsetky funkcie lezia na nom.
+2. Oleksandr Ruban - vytvoril git a riadi ulohy, css a pomoc s funckciami.
+3. Tamara Panaetova - html, css a pomoct s JS.
